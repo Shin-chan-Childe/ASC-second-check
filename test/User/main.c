@@ -147,4 +147,4 @@ int16_t ExtractSpeed(void)
         last=sign * speed;
     }
     return last;    // 默认返回0
-}
+}// Updated
